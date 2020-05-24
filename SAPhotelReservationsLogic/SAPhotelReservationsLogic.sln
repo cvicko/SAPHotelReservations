@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SAPhotelReservationsLogic", "SAPhotelReservationsLogic.csproj", "{BE012EB9-89A7-4AD6-9727-92CFEC6ADF63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaphotelReservationsUnitTests", "..\SaphotelReservationsUnitTests\SaphotelReservationsUnitTests.csproj", "{C68204FE-FD7F-4A38-95C4-A6D8884753C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE012EB9-89A7-4AD6-9727-92CFEC6ADF63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE012EB9-89A7-4AD6-9727-92CFEC6ADF63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE012EB9-89A7-4AD6-9727-92CFEC6ADF63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE012EB9-89A7-4AD6-9727-92CFEC6ADF63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C68204FE-FD7F-4A38-95C4-A6D8884753C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C68204FE-FD7F-4A38-95C4-A6D8884753C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C68204FE-FD7F-4A38-95C4-A6D8884753C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C68204FE-FD7F-4A38-95C4-A6D8884753C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A242A47E-9BA4-4F20-805A-1626AA96875F}
+	EndGlobalSection
+EndGlobal
